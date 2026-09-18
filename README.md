@@ -142,6 +142,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
+- [bamboodeploy/cli](https://github.com/bamboodeploy/cli) ![v2] ![paid] - Sign Windows builds through `signCommand` with no certificate or hardware token to manage.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
