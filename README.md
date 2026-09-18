@@ -129,6 +129,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Astrodon](https://github.com/astrodon/astrodon) ![v1] - Make Tauri desktop apps with Deno.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) ![v1] - `axios` adapter for the `@tauri-apps/api/http` module.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) ![v2] - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
+- [bamboodeploy/cli](https://github.com/bamboodeploy/cli) ![v2] ![paid] - Sign Windows builds through `signCommand` with no certificate or hardware token to manage.
 - [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) ![v2] - Run JS/TS code with Deno Core Engine, in Tauri apps.
 - [faynosync-update-server](https://github.com/ku9nov/faynoSync) ![v2] - Self-hosted Dynamic Update Server with statistics, supporting Tauri and other platforms. Flexible features for seamless app updates and insights.
 - [kkrpc](https://github.com/kunkunsh/kkrpc) ![v2] - Seamless RPC communication between a Tauri app and node/deno/bun processes.
@@ -142,7 +143,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 - [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
-- [bamboodeploy/cli](https://github.com/bamboodeploy/cli) ![v2] ![paid] - Sign Windows builds through `signCommand` with no certificate or hardware token to manage.
 
 [officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
 [closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
